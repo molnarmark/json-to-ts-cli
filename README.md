@@ -8,6 +8,6 @@ A tiny module that takes an input file of JSON and outputs the generated TypeScr
 npx json-to-ts-cli input.json > interfaces.ts
 ```
 
-## Credits
+## Credits 🎉
 
-🎉 [Marius Alch](https://github.com/MariusAlch/) for the amazing [json-to-ts](https://github.com/MariusAlch/json-to-ts) module.
+[Marius Alch](https://github.com/MariusAlch/) for the amazing [json-to-ts](https://github.com/MariusAlch/json-to-ts) module.

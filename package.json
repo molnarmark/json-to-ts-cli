@@ -1,5 +1,5 @@
 {
-  "name": "jsontots-cli",
+  "name": "json-to-ts-cli",
   "version": "1.0.0",
   "description": "A CLI for www.jsontots.com",
   "main": "index.js",
@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "json-to-ts": "^1.5.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/molnarmark/json-to-ts-cli/issues"
+  },
+  "homepage": "https://github.com/molnarmark/json-to-ts-cli#readme"
 }
