@@ -1,6 +1,6 @@
 {
   "name": "json-to-ts-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI for www.jsontots.com",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/molnarmark/json-to-ts-cli/issues"
   },
-  "homepage": "https://github.com/molnarmark/json-to-ts-cli#readme"
+  "homepage": "https://github.com/molnarmark/json-to-ts-cli#readme",
+  "bin": {
+    "json-to-ts-cli": "index.js"
+  }
 }
