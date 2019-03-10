@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const JsonToTS = require('json-to-ts');
 const fs = require('fs');
 
